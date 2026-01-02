@@ -5,3 +5,6 @@
 _I am uploading My old projects on git for beginners. So, they can start game dev without facing some problems._
 
 This is my old Ray cast shooting project (idea from @gamerguru2)
+
+In this code you find Relod System, Ray Cast Shooting, Fire Rate, etc.
+Every variable can be accessible through properties panel
