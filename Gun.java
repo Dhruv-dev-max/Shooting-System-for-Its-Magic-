@@ -1,3 +1,5 @@
+   //Author Dhruv-dev-max//
+
     public float shotRange;
     public float damage;
     public float fireRate;
